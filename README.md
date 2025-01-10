@@ -4,7 +4,7 @@ Repositori ini berisi analisis segmentasi pelanggan maskapai menggunakan metode 
 
 # Preview
 
-![Grafik Kmeans Without Library Github Preview]()
+![Grafik Kmeans Without Library Github Preview](https://github.com/danielanputri/uas_spk/blob/main/preview.png)
 
 ## Teknologi yang Digunakan
 
@@ -99,7 +99,7 @@ Analisis ini membantu maskapai memahami karakteristik pelanggan untuk meningkatk
 1. Clone repository ini ke computer/directory local Anda menggunakan perintah berikut:
 
    ```shell
-   git clone
+   git clone https://github.com/danielanputri/uas_spk
    ```
 
 2. Pastikan Anda memiliki requirements Python yang sesuai dan seluruh pustaka yang diperlukan.
